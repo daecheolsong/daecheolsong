@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **daecheolsong/daecheolsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,7,8,10,11,12,14&height=300&section=header&text=Welcome&fontSize=80&animation=fadeIn)
