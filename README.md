@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### 📖 Latest Post
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- TISTORY:START --><tr><td>누적합</td><td>https://develop-cr-study.tistory.com/26</td></tr><!-- TISTORY:END-->
+  <!-- TISTORY:START --><tr><td>누적합</td><td>https://develop-cr-study.tistory.com/26</td></tr><tr><td>유효성</td><td>https://develop-cr-study.tistory.com/25</td></tr><tr><td>상품 목록 사진추가, 사진 업로드</td><td>https://develop-cr-study.tistory.com/24</td></tr><tr><td>0. 프로젝트의 목적</td><td>https://develop-cr-study.tistory.com/23</td></tr><tr><td>상품 추가</td><td>https://develop-cr-study.tistory.com/22</td></tr><!-- TISTORY:END-->
 </table>
