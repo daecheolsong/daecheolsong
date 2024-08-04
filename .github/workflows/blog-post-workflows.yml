@@ -14,5 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "TISTORY"
+          accept_header: "*"
           feed_list: "https://develop-cr-study.tistory.com/rss"
           template: "<tr><td>$title</td><td>$url</td></tr>"
