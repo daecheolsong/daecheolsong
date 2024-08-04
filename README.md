@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### 📖 Latest Post
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- TISTORY:START --><!-- TISTORY:END-->
+  <!-- TISTORY:START --><tr><td>누적합</td><td>https://develop-cr-study.tistory.com/26</td></tr><!-- TISTORY:END-->
 </table>
